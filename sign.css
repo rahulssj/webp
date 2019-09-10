@@ -1,0 +1,40 @@
+body{
+
+	background-image: url('sm.jpg');
+background-size: cover;
+position: relative;
+}
+
+
+.f{
+display: flex;
+
+
+
+}
+img{
+	width: 730px;
+	height: 400px;}
+
+.f > div {
+	padding-top: 20px;
+
+color:white;
+margin-top: 20px;
+margin-left: 20px;
+width:730px;
+height:600px;
+border:none;
+background-image: url('abt4.jpg');
+background-size: cover;
+ background: rgb(0, 0, 0); 
+  background: rgba(0, 0, 0, 0.5); 
+position: relative;
+
+}
+
+
+
+
+
+
